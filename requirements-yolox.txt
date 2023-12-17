@@ -22,6 +22,6 @@ pytorch_lightning
 ipywidgets
 gevent
 termcolor
-sklearn
+scikit-learn
 thop
 loguru
