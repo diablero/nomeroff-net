@@ -35,7 +35,7 @@ RUN python3 -m pip install termcolor
 RUN python3 -m pip install ujson
 RUN python3 -m pip install GitPython
 RUN python3 -m pip install tqdm
-RUN python3 -m pip install sklearn
+RUN python3 -m pip install scikit-learn
 RUN python3 -m pip install "torch>=1.14.0" "torchvision>=0.13.0" --index-url https://download.pytorch.org/whl/cpu
 RUN python3 -m pip install "ultralytics==8.0.45"
 RUN python3 -m pip install "pytorch_lightning==1.8.6"
